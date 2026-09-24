@@ -227,4 +227,99 @@
 
 
 
+Q30. Count from 1 to N
+
+
+![App Screenshot](https://i.ibb.co/zHGW2FpB/30.png)
+
+
+
+
+Q31. Count even numbers from 1–N
+
+![App Screenshot](https://i.ibb.co/TxGQWPnb/31.png)
+
+
+
+
+
+ 
+Q32. Count odd numbers from 1–N
+
+
+![App Screenshot](https://i.ibb.co/PZ9Jt7f2/32.png)
+
+
+
+
+  
+Q33.Sum even numbers
+
+
+
+![App Screenshot](https://i.ibb.co/wFC48wxP/33.png)
+
+
+
+
+Q34. Sum odd numbers
+
+
+![App Screenshot](https://i.ibb.co/gL5HrxGR/34.png)
+
+
+
+
+ 
+Q35. Find largest number from 1–N
+
+
+![App Screenshot](https://i.ibb.co/RkNwbH4Y/35.png)
+
+
+
+
+ 
+Q36. Find smallest number from 1–N
+
+
+![App Screenshot](https://i.ibb.co/rKHpkYNZ/36.png)
+
+
+
+
+ 
+Q37. Count numbers divisible by 3
+
+
+![App Screenshot](https://i.ibb.co/mVp60h8R/37.png)
+
+
+
+
+
+Q38.Print factors of a number
+
+
+![App Screenshot](https://i.ibb.co/KxvwGKVF/38.png)
+
+
+
+
+Q39. Check whether a number is prime
+
+
+![App Screenshot](https://i.ibb.co/SD5x39r0/39.png)
+
+
+
+ 
+Q40. Print prime numbers from 1–N
+
+
+![App Screenshot](https://i.ibb.co/x8mFKPKj/40.
+
+
+
+
 
