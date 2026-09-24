@@ -55,3 +55,176 @@
 
 
 
+  
+##Q9. Swap two numbers
+
+![App Screenshot](https://i.ibb.co/gbnR8LJ6/Q9-S.png)
+
+
+
+ 
+##Q10. Convert seconds into hours, minutes and seconds
+
+![App Screenshot](https://i.ibb.co/9HkSXg7f/Q10-S.png)
+
+
+
+
+##Q11.Check whether a number is positive, negative or zero
+
+![App Screenshot](https://i.ibb.co/v4x1MCqD/Q11-S.png)
+
+
+
+  
+##Q12. Check whether a number is even or odd
+
+![App Screenshot](https://i.ibb.co/5hr519C6/Q12-S.png) 
+
+
+
+
+##Q13. Check whether a person is eligible to vote
+
+
+![App Screenshot](https://i.ibb.co/zWJdkz4X/Q13-S.png)
+
+
+
+
+##Q14. Find greater of two numbers
+
+
+![App Screenshot](https://i.ibb.co/JWFxdzq3/Q14-S.png)
+
+
+
+
+##Q15. Find greatest of three numbers
+
+
+![App Screenshot](https://i.ibb.co/jPcjBjZp/Q15-S.png)
+
+
+
+
+  
+##Q16. Check whether a year is a leap year
+
+
+![App Screenshot](https://i.ibb.co/WNKhY5VQ/Q16-S.png)
+
+
+
+
+ 
+##Q17. Check whether a number is divisible by 5 and 11
+
+![App Screenshot](https://i.ibb.co/DH22sYH3/Q17-S.png)
+
+
+
+
+
+##Q18. Check whether a number lies between 10 and 50
+
+
+![App Screenshot](https://i.ibb.co/C3M84Qgy/Q18-S.png)
+
+
+
+
+
+##Q19. Simple calculator using  if/elif 
+
+![App Screenshot](https://i.ibb.co/s9mV9gTX/Q19-S.png)
+
+
+
+
+##Q20. Grade calculator from marks
+
+
+![App Screenshot](https://i.ibb.co/BHL4ZQDx/Q20-S.png)
+
+
+
+
+
+
+##Q21. Print numbers 1–10
+
+
+![App Screenshot](https://i.ibb.co/RkwQ6rfy/Q21.png)
+
+
+
+
+
+##Q22.Print numbers 10–1
+
+
+![App Screenshot](https://i.ibb.co/RkwQ6rfy/Q21.png)
+
+
+
+
+##Q23. Print even numbers 1–100
+
+
+![App Screenshot](https://i.ibb.co/dwT54v6S/23.png)
+
+
+
+
+##Q24. Print odd numbers 1–100
+
+
+![App Screenshot](https://i.ibb.co/FLMf9CxK/24.png)
+
+
+
+
+
+##Q25. Print multiples of 5
+
+
+![App Screenshot](https://i.ibb.co/Q3gFb7wC/25.png)
+
+
+
+  
+##Q26.Print multiplication table
+
+
+
+![App Screenshot](https://i.ibb.co/wF8hY1qP/26.png)
+
+
+
+
+##Q27. Sum numbers 1–10
+
+
+![App Screenshot](https://i.ibb.co/yctmTnJc/27.png)
+
+
+
+ 
+##Q28. Sum numbers 1–N
+
+
+![App Screenshot](https://i.ibb.co/fdnnJwhd/28.png)
+
+
+
+
+##Q29. Find factorial of N
+
+
+![App Screenshot](https://i.ibb.co/JWM6W8Bs/29.png)
+
+
+
+
+
