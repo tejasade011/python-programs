@@ -1,0 +1,17 @@
+All Question 
+
+Q1.Print name, age, college and branch
+
+name = input("Enter your name:tejas ")
+age = input("Enter your age:18 ")
+college = input("Enter your college name:RBU ")
+branch = input("Enter your branch:ECS ")
+
+# Printing the collected information
+print("\n--- Student Details ---")
+print(f"Name:    {name}")
+print(f"Age:     {age}")
+print(f"College: {college}")
+print(f"Branch:  {branch}")
+
+
