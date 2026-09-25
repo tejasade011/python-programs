@@ -73,5 +73,64 @@ print("Temperature in Fahrenheit:", fahrenheit)
 
 
 
+Q8.Calculate total and percentage of 5 subjects
+
+s1 = float(input("Enter marks of subject 1: "))
+s2 = float(input("Enter marks of subject 2: "))
+s3 = float(input("Enter marks of subject 3: "))
+s4 = float(input("Enter marks of subject 4: "))
+s5 = float(input("Enter marks of subject 5: "))
+total = s1 + s2 + s3 + s4 + s5
+percentage = total / 5
+print("Total:", total)
+print("Percentage:", percentage, "%")
+
+
+
+Q9.Swap two numbers
+
+a = int(input("Enter first number: "))
+b = int(input("Enter second number: "))
+a, b = b, a
+print("After swapping:")
+print("First number:", a)
+print("Second number:", b)
+
+
+
+Q10.Convert seconds into hours, minutes and seconds
+
+seconds = int(input("Enter total seconds: "))
+hours = seconds // 3600
+minutes = (seconds % 3600) // 60
+seconds = seconds % 60
+print("Hours:", hours)
+print("Minutes:", minutes)
+print("Seconds:", seconds)
+
+
+
+Q11.Check whether a number is positive, negative or zero
+
+num = float(input("Enter a number: "))
+if num > 0:
+    print("Positive")
+elif num < 0:
+    print("Negative")
+else:
+    print("Zero")
+
+
+
+Q12.Check whether a number is even or odd
+
+num = int(input("Enter a number: "))
+if num % 2 == 0:
+    print("Even")
+else:
+    print("Odd")
+
+
+
 
 
