@@ -31,6 +31,7 @@ print(f"The sum of {num1} and {num2} is {result}")
 
 
 Q4.Perform all arithmetic operations on two numbers
+
 num1=float(intput("enter the number 1")
 num2=float(intput("enter the number 2")
 addition       = num1 + num2
@@ -43,6 +44,16 @@ print(f"Addition (+):          {addition}")
 print(f"Subtraction (-):       {subtraction}")
 print(f"Multiplication (*):    {multiplication}")
 print(f"Division (/):          {division}")
+
+
+
+Q5.Calculate area of a circle
+
+import math
+radius = float(input("Enter radius: "))
+area =3.14*pi * radius * radius
+print("Area of circle:", area)
+
 
 
 
