@@ -248,6 +248,257 @@ for i in range(1, 11):
 
 
 
+Q22. Print numbers 10–1
+
+for i in range(10, 0, -1):
+    print(i)
+
+
+
+Q23. Print even numbers 1–100
+
+for i in range(2, 101, 2):
+    print(i)
+
+
+
+Q24. Print odd numbers 1–100
+
+for i in range(1, 101, 2):
+    print(i)
+
+
+
+Q25. Print multiples of 5
+
+for i in range(5, 101, 5):
+    print(i)
+
+
+
+
+Q25. Print multiples of 5
+
+for i in range(1, 11):
+    print(5 * i)
+
+
+
+Q26. Print multiplication table
+
+num = int(input("Enter a number: "))
+
+for i in range(1, 11):
+    print(num, "x", i, "=", num * i)
+
+
+
+Q27. Sum numbers 1–10
+
+sum = 0
+
+for i in range(1, 11):
+    sum += i
+
+print(sum)
+
+
+
+
+Q28. Sum numbers 1–N
+
+
+n = int(input("Enter N: "))
+
+sum = 0
+for i in range(1, n + 1):
+    sum += i
+
+print("Sum =", sum)
+
+
+
+
+Q29. Find factorial of N
+
+n = int(input("Enter N: "))
+
+factorial = 1
+
+for i in range(1, n + 1):
+    factorial *= i
+
+print("Factorial =", factorial)
+
+
+
+
+Q30. Count from 1 to N
+
+n = int(input("Enter N: "))
+
+for i in range(1, n + 1):
+    print(i)
+
+
+
+
+Q31. Count even numbers from 1–N
+
+n = int(input("Enter N: "))
+
+count = 0
+
+for i in range(1, n + 1):
+    if i % 2 == 0:
+        count += 1
+
+print("Count of even numbers =", count)
+
+
+
+
+Q32. Count odd numbers from 1–N
+
+n = int(input("Enter N: "))
+
+count = 0
+
+for i in range(1, n + 1):
+    if i % 2 != 0:
+        count += 1
+
+print("Count of odd numbers =", count) 
+
+
+
+
+Q33. Sum even numbers
+
+n = int(input("Enter N: "))
+
+sum = 0
+
+for i in range(1, n + 1):
+    if i % 2 == 0:
+        sum += i
+
+print("Sum of even numbers =", sum)
+
+
+
+
+
+Q34. Sum odd numbers
+
+n = int(input("Enter N: "))
+
+sum = 0
+
+for i in range(1, n + 1):
+    if i % 2 != 0:
+        sum += i
+
+print("Sum of odd numbers =", sum)
+
+
+
+
+Q35. Find largest number from 1–N
+
+
+n = int(input("Enter N: "))
+
+largest = 0
+
+for i in range(1, n + 1):
+    if i > largest:
+        largest = i
+
+print("Largest number =", largest)
+
+
+
+
+Q36. Find smallest number from 1–N
+
+
+n = int(input("Enter N: "))
+
+smallest = 1
+
+for i in range(1, n + 1):
+    if i < smallest:
+        smallest = i
+
+print("Smallest number =", smallest)
+
+
+
+
+Q37. Count numbers divisible by 3 
+
+
+n = int(input("Enter N: "))
+
+count = 0
+
+for i in range(1, n + 1):
+    if i % 3 == 0:
+        count += 1
+
+print("Count =", count)  
+
+
+
+
+Q38. Print factors of a number
+
+n = int(input("Enter a number: "))
+
+for i in range(1, n + 1):
+    if n % i == 0:
+        print(i)
+
+
+
+
+Q39. Check whether a number is prime
+
+n = int(input("Enter a number: "))
+
+count = 0
+
+for i in range(1, n + 1):
+    if n % i == 0:
+        count += 1
+
+if count == 2:
+    print("Prime number")
+else:
+    print("Not a prime number")
+
+
+
+
+Q40. Print prime numbers from 1–N  
+
+n = int(input("Enter N: "))
+
+for num in range(2, n + 1):
+    prime = True
+
+    for i in range(2, num):
+        if num % i == 0:
+            prime = False
+            break
+
+    if prime:
+        print(num)
+
+
+
+
 
 
 
