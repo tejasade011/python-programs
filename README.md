@@ -1,5 +1,9 @@
 # python program
 
+
+
+
+
 ## Q1 Print name, age, college and branch
 
 ![App Screenshot](https://i.ibb.co/hJ0Lrk4j/program-1.png)
@@ -227,7 +231,7 @@
 
 
 
-Q30. Count from 1 to N
+##Q30. Count from 1 to N
 
 
 ![App Screenshot](https://i.ibb.co/zHGW2FpB/30.png)
@@ -235,7 +239,7 @@ Q30. Count from 1 to N
 
 
 
-Q31. Count even numbers from 1–N
+##Q31. Count even numbers from 1–N
 
 ![App Screenshot](https://i.ibb.co/TxGQWPnb/31.png)
 
@@ -244,7 +248,7 @@ Q31. Count even numbers from 1–N
 
 
  
-Q32. Count odd numbers from 1–N
+##Q32. Count odd numbers from 1–N
 
 
 ![App Screenshot](https://i.ibb.co/PZ9Jt7f2/32.png)
@@ -253,7 +257,7 @@ Q32. Count odd numbers from 1–N
 
 
   
-Q33.Sum even numbers
+##Q33.Sum even numbers
 
 
 
@@ -262,7 +266,7 @@ Q33.Sum even numbers
 
 
 
-Q34. Sum odd numbers
+##Q34. Sum odd numbers
 
 
 ![App Screenshot](https://i.ibb.co/gL5HrxGR/34.png)
@@ -271,7 +275,7 @@ Q34. Sum odd numbers
 
 
  
-Q35. Find largest number from 1–N
+##Q35. Find largest number from 1–N
 
 
 ![App Screenshot](https://i.ibb.co/RkNwbH4Y/35.png)
@@ -280,7 +284,7 @@ Q35. Find largest number from 1–N
 
 
  
-Q36. Find smallest number from 1–N
+##Q36. Find smallest number from 1–N
 
 
 ![App Screenshot](https://i.ibb.co/rKHpkYNZ/36.png)
@@ -289,7 +293,7 @@ Q36. Find smallest number from 1–N
 
 
  
-Q37. Count numbers divisible by 3
+##Q37. Count numbers divisible by 3
 
 
 ![App Screenshot](https://i.ibb.co/mVp60h8R/37.png)
@@ -298,7 +302,7 @@ Q37. Count numbers divisible by 3
 
 
 
-Q38.Print factors of a number
+##Q38.Print factors of a number
 
 
 ![App Screenshot](https://i.ibb.co/KxvwGKVF/38.png)
@@ -306,7 +310,7 @@ Q38.Print factors of a number
 
 
 
-Q39. Check whether a number is prime
+##Q39. Check whether a number is prime
 
 
 ![App Screenshot](https://i.ibb.co/SD5x39r0/39.png)
@@ -314,7 +318,7 @@ Q39. Check whether a number is prime
 
 
  
-Q40. Print prime numbers from 1–N
+##Q40. Print prime numbers from 1–N
 
 
 ![App Screenshot](https://i.ibb.co/x8mFKPKj/40.png)
